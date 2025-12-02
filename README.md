@@ -33,6 +33,7 @@ ColonDB https://drive.google.com/file/d/1tjZ0o5dgzka3wf_p4ErSRJ9fcC-RJK8R/view?u
 ClinicDB https://drive.google.com/file/d/1ciqZwMs1smSGDlwQ6tsr6YzylrqQBn9n/view?usp=drive_link
 
 TN3K https://drive.google.com/file/d/1LuKEMhrUGwFBlGCaej46WoooH89V3O8_/view?usp=drive_link
+
 # Content
 
 We provide the full implementation and benchmark results for AnomalyLVM, a unified zero-shot anomaly detection framework capable of performing both image-level classification and pixel-level localization.
