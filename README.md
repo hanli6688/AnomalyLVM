@@ -1,5 +1,3 @@
-<img width="1947" height="1893" alt="对比图片" src="https://github.com/user-attachments/assets/9f235690-ed0a-48c5-8b99-17e76d46d8ee" /># AnomalyLVM
-AnomalyLVM:Vision-Language Models for Zero-Shot Anomaly Detection
 # Introduction
 This is the official data link of AnomalyLVM
 # datasets
@@ -43,5 +41,6 @@ The model utilizes frozen SAM2 and DINO-X encoders for spatial and semantic feat
 The Feature Enhancement Module (FEM) refines static LayerCAM maps by combining dual-encoder attention cues and decoder affinity relations, producing more reliable and context-aware pseudo labels. An object-agnostic prompt design is adopted to eliminate handcrafted templates and ensure cross-category and cross-domain generalization.
 
 # Result
-
+<img width="1947" height="1893" alt="对比图片" src="https://github.com/user-attachments/assets/9f235690-ed0a-48c5-8b99-17e76d46d8ee" /># AnomalyLVM
+AnomalyLVM:Vision-Language Models for Zero-Shot Anomaly Detection
 
