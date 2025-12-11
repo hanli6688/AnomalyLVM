@@ -65,7 +65,7 @@ class MultiHeadChannelAttention(nn.Module):
 class FrozenSAM2(nn.Module):
     def __init__(self):
         super().__init__()
-        self.backbone = ...  # Replace with real SAM2 visual encoder
+        self.backbone = SAM2.backbone  # Replace with real SAM2 visual encoder
 
     def forward(self, x):
         with torch.no_grad():
@@ -75,7 +75,7 @@ class FrozenSAM2(nn.Module):
 class FrozenDINOX(nn.Module):
     def __init__(self):
         super().__init__()
-        self.backbone = ...  # Replace with real DINO-X encoder
+        self.backbone = DINO-X.backbone  # Replace with real DINO-X encoder
 
     def forward(self, x):
         with torch.no_grad():
